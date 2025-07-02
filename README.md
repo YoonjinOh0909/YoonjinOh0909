@@ -23,9 +23,10 @@ AI 엔지니어를 꿈꾸며 공부하는 개발자입니다
 
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)  
 
-### 🚩 Algorithm Ranking
-[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=ohbangill)](https://solved.ac/profile/ohbangill)
 
+### 🚩 Algorithm Ranking
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohbangill)](https://solved.ac/ohbangill)
 <!--
 
 **YoonjinOh0909/YoonjinOh0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
