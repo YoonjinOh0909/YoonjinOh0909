@@ -6,23 +6,24 @@ AI 엔지니어를 꿈꾸며 공부하는 개발자입니다
 지치지 않고 배우며 나아가겠습니다.
 
 ### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**
+**🧑‍💻 Lang**
 
-![C++](https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge)  
+![C++](https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge)  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height = 30> 
 
-**👍Communication Tools**
-
-![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
-
-**🛠️ Tools**
+**🛠️ Tools and Frameworks**
 
 ![Unity](https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white) 
+<img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" height = 30> <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white" height = 30> <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height = 30> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height = 30>
 
+<img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height = 30> <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" height = 30>
 
 **⏰ Version Control Systems**
 
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)  
 
+**👍Communication Tools**
+
+![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 
 ### 🚩 Algorithm Ranking
 [![Solved.ac
