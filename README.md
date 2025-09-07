@@ -8,7 +8,9 @@ AI 엔지니어를 꿈꾸며 공부하는 개발자입니다
 ### 🦾 Skills
 **🧑‍💻 Lang**
 
-![C++](https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge)  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height = 30> 
+![C++](https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height = 30> 
 
 **🛠️ Tools and Frameworks**
 
